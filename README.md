@@ -63,5 +63,5 @@ Each `pr/` branch holds one part of this topic on top of upstream and says in it
 
 | Branch | Based on |
 |---|---|
-| `pr/remote-desktop` | `pr/esp32-require-hw-jpeg` of p1ngb4ck/esphome-esp-video, `pr/lvgl-remote-input` of p1ngb4ck/esphome-hid, `pr/lvgl-color-depth-32` of p1ngb4ck/esphome-mipi-display, `pr/mipi-dsi-scanout` of p1ngb4ck/esphome-mipi-display, `pr/storage` of p1ngb4ck/esphome-storage-interface, `pr/usb-host-refactor` of p1ngb4ck/esphome-usb-host |
-| `pr/remote-desktop-close-action` | `pr/display-video-output-page-draw` of p1ngb4ck/esphome-esp-video, `pr/storage` of p1ngb4ck/esphome-storage-interface, `pr/usb-host-refactor` of p1ngb4ck/esphome-usb-host |
+| `pr/remote-desktop` | `pr/esp32-require-hw-jpeg` of p1ngb4ck/esphome-esp-video, `pr/hid` of p1ngb4ck/esphome-hid, `pr/i2c-bus-recovery-option` of p1ngb4ck/esphome-mipi-display, `pr/storage` of p1ngb4ck/esphome-storage-interface, `pr/usb-host-refactor` of p1ngb4ck/esphome-usb-host |
+| `pr/remote-desktop-close-action` | `pr/remote-desktop` |
